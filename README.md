@@ -41,8 +41,8 @@ An advanced educational Telegram bot powered by Google Gemini AI, designed for p
 
 1. **Clone and Setup**
    ```bash
-   git clone <repository-url>
-   cd telegram-edu-bot
+   git clone https://github.com/Mraprguild8133/BotGeminiVoice.git
+   cd BotGeminiVoice
    ```
 
 2. **Install Dependencies**
